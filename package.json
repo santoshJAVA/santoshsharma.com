@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://santoshJAVA.github.io/santoshsharma.com",
+  "homepage": "http://santoshJAVA.github.io",
   "dependencies": {
     "@carbon/icons-react": "^10.13.0",
     "@carbon/themes": "^10.14.0",
