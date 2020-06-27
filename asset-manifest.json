@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/santoshsharma.com/static/css/main.38b2e3bc.chunk.css",
+    "main.js": "/santoshsharma.com/static/js/main.3e7003e7.chunk.js",
+    "main.js.map": "/santoshsharma.com/static/js/main.3e7003e7.chunk.js.map",
+    "runtime-main.js": "/santoshsharma.com/static/js/runtime-main.5969bf95.js",
+    "runtime-main.js.map": "/santoshsharma.com/static/js/runtime-main.5969bf95.js.map",
+    "static/js/2.5467ab3a.chunk.js": "/santoshsharma.com/static/js/2.5467ab3a.chunk.js",
+    "static/js/2.5467ab3a.chunk.js.map": "/santoshsharma.com/static/js/2.5467ab3a.chunk.js.map",
+    "index.html": "/santoshsharma.com/index.html",
+    "precache-manifest.50d11c0ee8816e27e60bdeb98d3396e7.js": "/santoshsharma.com/precache-manifest.50d11c0ee8816e27e60bdeb98d3396e7.js",
+    "service-worker.js": "/santoshsharma.com/service-worker.js",
+    "static/css/main.38b2e3bc.chunk.css.map": "/santoshsharma.com/static/css/main.38b2e3bc.chunk.css.map",
+    "static/js/2.5467ab3a.chunk.js.LICENSE.txt": "/santoshsharma.com/static/js/2.5467ab3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5969bf95.js",
+    "static/js/2.5467ab3a.chunk.js",
+    "static/css/main.38b2e3bc.chunk.css",
+    "static/js/main.3e7003e7.chunk.js"
+  ]
+}
