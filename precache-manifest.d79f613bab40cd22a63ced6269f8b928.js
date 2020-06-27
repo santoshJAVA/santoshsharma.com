@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4196b6d43d17d862c1427ad9ed9b8a69",
+    "revision": "dd9377909dee0402846c9fcffd87f4b6",
     "url": "/santoshsharma/index.html"
   },
   {
-    "revision": "d382b0bead2695dca64c",
+    "revision": "bb8ceb6cc24c056e0cb4",
     "url": "/santoshsharma/static/css/main.38b2e3bc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/santoshsharma/static/js/2.434f58c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d382b0bead2695dca64c",
-    "url": "/santoshsharma/static/js/main.1303a4c3.chunk.js"
+    "revision": "bb8ceb6cc24c056e0cb4",
+    "url": "/santoshsharma/static/js/main.4028dae4.chunk.js"
   },
   {
     "revision": "7b3e0e175edfb8f2df5d",
